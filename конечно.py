@@ -1,1 +1,0 @@
-a = [[(i == j or i + j == int(input())) for j in range(int(input()))] for i in range(int(input()))]
